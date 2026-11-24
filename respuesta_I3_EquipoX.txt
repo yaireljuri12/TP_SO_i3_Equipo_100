@@ -1,1 +1,6 @@
+Yair El Juri
+Santino Duprat
 
+a) queda unificado y actualizado 
+b) si
+c)git checkout master, git pull origin master, git merge <apellido_gamma>, git push origin master
