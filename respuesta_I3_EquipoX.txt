@@ -4,3 +4,8 @@ Santino Duprat
 a) queda unificado y actualizado 
 b) si
 c)git checkout master, git pull origin master, git merge <apellido_gamma>, git push origin master
+d- no quedan igual de actualizadas entre sí. La rama de GAMMA (duprat) quedó actualizada hasta el punto 5 mientras que la rama de BETA (eljuri) tiene todo lo anterior más el archivo beta.txt creado en el punto 6.
+e- Al intentar bajar la rama duprat sin hacer git fetch origin antes, Git no reconocía origin/duprat (fatal: 'origin/duprat' is not a commit...). 
+Merge previo inconcluso: La rama principal estaba bloqueada en estado (main|MERGING) por un intento anterior, lo que obligó a cancelarlo con git merge --abort.
+Bloqueo en el editor Vim: Al hacer el merge, Git abrió Vim para confirmar el mensaje y encontró un archivo temporal viejo quedando el proceso suspendido en segundo plano hasta cerrarlo.    
+f- git fetch origin, git checkout main, git pull origin main, git checkout -b eljuri origin/eljuri
