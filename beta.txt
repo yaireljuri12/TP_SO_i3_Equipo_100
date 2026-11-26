@@ -1,1 +1,30 @@
 Yair El Juri 20:44 
+Santino Duprat 21:20
+
+Configuracion IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS espec fico para la conexi n. . : home
+   Direcci n IPv6 . . . . . . . . . . : 2800:810:4fe:1f1:483b:1d43:8bb1:7447
+   Direcci n IPv6 . . . . . . . . . . : 2800:810:4fe:1f1:6fdf:b94c:dcd7:dcc4
+   Direcci n IPv6 temporal. . . . . . : 2800:810:4fe:1f1:b4db:662c:94d9:7828
+   V nculo: direcci n IPv6 local. . . : fe80::56fd:1669:5360:301e%17
+   Direcci n IPv4. . . . . . . . . . . . . . : 192.168.0.117
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::5a68:7aff:fe75:fb58%17
+                                       192.168.0.1
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS espec fico para la conexi n. . : 
+   V nculo: direcci n IPv6 local. . . : fe80::27ee:c8e8:9725:17af%6
+   Direcci n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de Ethernet Conexi n de red Bluetooth 3:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec fico para la conexi n. . : 
